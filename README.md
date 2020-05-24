@@ -19,7 +19,8 @@ This data set was used to train a CrowdFlower AI gender predictor. This dataset 
 * Analyzing and cleaning the data from the text and description columns, and also combining them both and performing analysis by techniques like Lemmatization, Stopwords etc.
 * Creating a BOW(Bag of words) model for Machine learning to be able to understand.
 * Using fastai deep learning library to perform transfer learning and using pretrained models to classify the gender.
-* Also, creating different ML models from scratch to measure how well they perform using metrics like accuracy, confusion matrix.
+* Also, creating different ML models from scratch to measure how well they perform using metrics like accuracy, confusion matrix and provide insights and recommendations from it.
+* Identify challenges with approach / results and provide recommendations on how to improve for future analysis.
 
 # Deliverables
 Associated code, paper, and presentation are included in the associated files.
