@@ -6,7 +6,7 @@ Sentiment analysis is famous among major brands. It is the way to identify the t
 * Facebook
 * Netflix
 
-The goal of this project is to simply view a Twitter profile and judge whether the user was a male, a female, or a brand (non-individual). NLP is used and its different methods pave the way for achieving a solution for performing the analysis. This is useful for the prospective client in determining a particular gender in analyzing well, based on seeing a user’s tweet or a profile.
+The goal of this project is to simply view a Twitter profile text data and judge whether the user was a male, a female, or a brand (non-individual). NLP is used and its different methods pave the way for achieving a solution for performing the analysis. This is useful for the prospective client in determining a particular gender in analyzing well, based on seeing a user’s tweet or a profile.
 
 # Target audience
 This is mainly useful for a prospective client in determining a particular gender in analyzing well, based on seeing a user’s tweet or a profile. This helps determine on how the gender distinction and the tweets being made work better.
